@@ -14,7 +14,7 @@ mc.m1()   # method we have call explicitly by using object
 
 # example for constructor have take argument
 
-class myClass:
+class MyClass:
     name = "Moni"
     def __init__(self, name):  # constructor expecting one argument
         print(name)
